@@ -3,7 +3,7 @@ env:
   FONT: IBM Plex Mono
 
 window:
-  opacity: 0.7
+  opacity: 0.8
 
 font:
   size: 12
